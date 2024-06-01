@@ -1,0 +1,4 @@
+com\example\tourservice\repository\TourRepository.class
+com\example\tourservice\TourServiceApplication.class
+com\example\tourservice\model\Tour.class
+com\example\tourservice\controller\TourController.class
