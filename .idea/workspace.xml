@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47cf48f0-6db1-439b-ad91-99ef1146b1e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/review-service/target/classes/com/example/reviewservice/controller/ReviewController.class" beforeDir="false" afterPath="$PROJECT_DIR$/review-service/target/classes/com/example/reviewservice/controller/ReviewController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/review-service/target/classes/com/example/reviewservice/model/Review.class" beforeDir="false" afterPath="$PROJECT_DIR$/review-service/target/classes/com/example/reviewservice/model/Review.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/review-service/target/classes/com/example/reviewservice/repository/ReviewRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/review-service/target/classes/com/example/reviewservice/repository/ReviewRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tour-service/target/classes/com/example/tourservice/controller/TourController.class" beforeDir="false" afterPath="$PROJECT_DIR$/tour-service/target/classes/com/example/tourservice/controller/TourController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tour-service/target/classes/com/example/tourservice/model/Tour.class" beforeDir="false" afterPath="$PROJECT_DIR$/tour-service/target/classes/com/example/tourservice/model/Tour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tour-service/target/classes/com/example/tourservice/repository/TourRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/tour-service/target/classes/com/example/tourservice/repository/TourRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/target/classes/com/example/userservice/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/com/example/userservice/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/target/classes/com/example/userservice/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/com/example/userservice/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/target/classes/com/example/userservice/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/com/example/userservice/repository/UserRepository.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,23 +24,24 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "andrea285"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;andrea285&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/andrea285/XML_proj.git",
-    "accountId": "9d1b222f-426e-4681-849e-ea242222bf93"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/andrea285/XML_proj.git&quot;,
+    &quot;accountId&quot;: &quot;9d1b222f-426e-4681-849e-ea242222bf93&quot;
   }
-}]]></component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -52,18 +63,29 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/andre/OneDrive/Documents/GitHub/XML_proj",
+    "last_opened_file_path": "C:/Users/andre/OneDrive/Documents/GitHub/XML_pr",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mongo"
+    ]
   }
 }]]></component>
   <component name="RunManager" selected="Docker.docker-compose.yml: Compose Deployment">
     <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
-      <deployment type="docker-compose.yml" />
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
       <method v="2" />
     </configuration>
     <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
@@ -113,7 +135,10 @@
       <updated>1718440498056</updated>
       <workItem from="1718440507314" duration="154000" />
       <workItem from="1718442277323" duration="58000" />
-      <workItem from="1718442353648" duration="1384000" />
+      <workItem from="1718442353648" duration="2078000" />
+      <workItem from="1718444480234" duration="238000" />
+      <workItem from="1718444727647" duration="27000" />
+      <workItem from="1718444762257" duration="430000" />
     </task>
     <servers />
   </component>
