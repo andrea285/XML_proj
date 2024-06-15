@@ -43,8 +43,6 @@ services:
       - user-service
       - tour-service
       - review-service
-    environment:
-      - SPRING_DATA_MONGODB_URI=mongodb://mongodb:27017/gatewaydb
 
   mongodb:
     image: mongo

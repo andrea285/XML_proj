@@ -19,9 +19,9 @@
     <dependencies>
         <!-- Spring Boot Starter Web -->
         <dependency>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-web</artifactId>
-    </dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
         <!-- Spring Boot Starter Data MongoDB -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -40,10 +40,6 @@
             <scope>runtime</scope>
             <optional>true</optional>
         </dependency>
-        <dependency>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-security</artifactId>
-    </dependency>
     </dependencies>
     <build>
         <plugins>
